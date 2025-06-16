@@ -1,0 +1,31 @@
+[
+  {
+    "operation": "add-indicator",
+    "users": [
+      "user3"
+    ],
+    "usersPercentage": 50
+  },
+  {
+    "operation": "remove-indicator",
+    "users": [],
+    "usersPercentage": 0
+  },
+  {
+    "operation": "update-indicator",
+    "users": [],
+    "usersPercentage": 0
+  },
+  {
+    "operation": "view-indicator",
+    "users": [
+      "user4"
+    ],
+    "usersPercentage": 50
+  },
+  {
+    "operation": "delete-indicator",
+    "users": [],
+    "usersPercentage": 0
+  }
+]
